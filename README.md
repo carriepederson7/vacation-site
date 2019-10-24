@@ -1,8 +1,6 @@
 # vacation-site
 
-# earth-wind-and-fire
 
-# cupcake-shop
 
 Aug. 2019
 
